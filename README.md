@@ -10,3 +10,4 @@
 * How to make concurrent class
 * What is composition and aggregation in Java
 * What happens when singletone bean has reference to prototype bean (Spring).
+* How Spring manage circular dependencies.
