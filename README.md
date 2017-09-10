@@ -11,3 +11,6 @@
 * What is composition and aggregation in Java
 * What happens when singletone bean has reference to prototype bean (Spring).
 * How Spring manage circular dependencies.
+* Create Stack using two queqes.
+* Find Middle of Linklist without knowing the size of linklist.
+* what is complexity of binary search on unsorted list.
